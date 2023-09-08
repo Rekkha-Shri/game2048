@@ -1,4 +1,5 @@
-"apiVersion: apps/v1
+*
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: eks-sample-linux-deployment
@@ -32,4 +33,4 @@ spec:
           containerPort: 80
         imagePullPolicy: IfNotPresent
       nodeSelector:
-        kubernetes.io/os: linux"
+        kubernetes.io/os: linux

@@ -1,7 +1,7 @@
 Installation of the below tools are essential for the EKS Ckuster to get running
 
 kubectl
-(https://kubernetes.io/docs/tasks/tools/#kubectl)
+[Install kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)
 
 eksctl
 https://eksctl.io/introduction/

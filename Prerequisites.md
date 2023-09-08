@@ -1,4 +1,4 @@
-``Installation of the below tools are essential for the EKS Cluster to get running``
+##Installation of the below tools are essential for the EKS Cluster to get running
 
 kubectl
 [Install kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)

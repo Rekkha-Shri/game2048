@@ -3,6 +3,8 @@
 kubectl
 https://kubernetes.io/docs/tasks/tools/#kubectl
 
-eksctl - https://eksctl.io/introduction/
+eksctl
+https://eksctl.io/introduction/
 
-AWSCLI - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+AWSCLI
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
